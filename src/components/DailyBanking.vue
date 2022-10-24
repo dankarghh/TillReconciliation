@@ -7,6 +7,8 @@ const dateOfDeposit = ref(null);
 const notesTotal = computed(() => {});
 const coinTotal = computed(() => {});
 const despositBag = ref(null);
+
+const allTills = ref([]);
 </script>
 
 <template>
